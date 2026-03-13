@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Edwin Betancur 👋
 
-<!--
-**edwinbetancur86/edwinbetancur86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Software Developer | Automation Builder  
+Building intelligent systems, machine learning tools, and creator-focused tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Software developer transitioning into AI engineering
+- Focused on machine learning, AI automation, and intelligent systems
+- Building tools that combine technology, creativity, and productivity
+- Drummer and online educator
+
+---
+
+## 🧠 Expertise
+
+- Machine Learning
+- AI Automation
+- Python Development
+- API Systems
+- Workflow Automation
+- Data Processing
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- Java
+- Kotlin
+- JavaScript
+
+**AI / ML**
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+
+**Tools**
+- Docker
+- Git
+- Linux
+- FastAPI
+- REST APIs
+
+---
+
+## 📂 Featured Projects
+
+### AI Drum Coach
+AI-powered system designed to help beginner drummers improve with structured practice.
+
+### AI Workflow Automation
+Automation pipelines using AI agents to streamline business processes.
+
+### Machine Learning Experiments
+Research and development of ML models and AI tools.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME)
+
+---
+
+## 📫 Connect
+
+- LinkedIn
+- Website / Portfolio
+- Email
