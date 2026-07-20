@@ -31,7 +31,7 @@ These aren't API wrappers. Each project solves a real engineering problem with m
 
 | # | Project | What I Proved | Key Result | Stack |
 |---|---------|--------------|------------|-------|
-| P1 | [**TBD**](TBD) | TBD | TBD | TBD |
+| P1 | [**DIY Repair Q&A Synthetic-Data Generator**](https://github.com/edwinbetancur86/diy-home-synthetic-data) | Built a 6-step LLM eval pipeline with a human-calibrated LLM-as-judge; proved a **data-driven** prompt fix via before/after measurement | **93% failure-rate reduction** (30%→2%); judge **≥93% agreement** with human labels on all 6 dimensions | Python · Claude · Instructor/Pydantic · pandas · matplotlib |
 | P2 | [**TBD**](TBD) | TBD | TBD | TBD |
 | P3 | [**TBD**](TBD) | TBD | TBD | TBD |
 | P4 | [**TBD**](TBD) | TBD | TBD | TBD |
@@ -40,7 +40,7 @@ These aren't API wrappers. Each project solves a real engineering problem with m
 
 | # | Project | What It Does | Stack |
 |---|---------|-------------|-------|
-| P5 | [**TBD**](TBD) | TBD | TBD |
+| P2 | [**AI Resume Synthetic Data Pipeline**](TBD) | TBD | TBD |
 
 **🗓️ Up Next:** TBD
 
